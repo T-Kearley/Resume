@@ -19,20 +19,4 @@ currentDate(); //calling the function
 
 
 
-// function getmilk(money) {
-//     var numberOfBottles = Math.floor(money/ 1.5);
-//     console.log("buy " + numberOfBottles + " bottles of milk");
-//     return money % 1.5;
-// }
-// var change = getmilk(3);
-// console.log(change);
 
-// if (change == 0){
-//     console.log ("yes");
-// }
-
-// function calcBottles(sratingMoney, costPerBottle) {
-//     var numberOfBottles = math.floor(sratingMoney / costPerBottle);
-//    return numberOfBottles:
-
-// }
